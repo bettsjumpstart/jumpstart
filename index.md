@@ -5,12 +5,12 @@ menutitle: Home
 menuorder: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Special Collections Research Center welcomes the opportunity to work with undergraduate and graduate classes, and we are especially glad to introduce new researchers to archives and special collections. Support the research and teaching needs of the university community and other scholars by collecting, housing, and providing access to special collections that are unique and often irreplaceable.
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Archives
+- Special Collections
+- Archival Literacy Instructions
+- Outreach
+- Student Success
