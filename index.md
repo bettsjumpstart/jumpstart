@@ -10,7 +10,7 @@ The Special Collections Research Center welcomes the opportunity to work with un
 ## Current Interests and Projects:
 
 - Archives
-- Special Collections (https://www.lib.ncsu.edu/scrc/about)
+- Special Collections
 - Archival Literacy Instructions
 - Outreach
 - Student Success
