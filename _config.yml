@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: VICTOR B.
+title: VICTOR B
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Victor B.
+  name: Victor B
   avatar: mulder_scully.jpeg
   bio: "Student Success Librarian for Special Collections"
   email: #emailaddress
